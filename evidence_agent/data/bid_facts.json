@@ -1,0 +1,1058 @@
+{
+ "BID-2026-0412-04": {
+  "bid_ref": "BID-2026-0412-04",
+  "company": "Al Manara Process Solutions LLC",
+  "file_vnum": 1,
+  "source_file": "Bid_V01_Al_Manara_Process_Solutions_LLC.txt",
+  "scheme": "two-stage corrugated-plate interceptor (cpi) + induced gas flotation\n (igf) + nutshell filtration",
+  "capacity_m3_per_day": 33500,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 5.0,
+  "outlet_oiw_cover_letter": null,
+  "price_currency": "AED",
+  "price_total": 44851000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 17474000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 4994000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 4107000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 3759000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 2923000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2794000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 4250000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1563000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1479000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1508000
+   }
+  ],
+  "line_item_sum": 44851000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 58,
+  "warranty_months": 30,
+  "gcc_references_count": 7,
+  "experience_years": 18,
+  "employees": 640,
+  "year_established": 2008,
+  "trir_3yr_avg": 0.18,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 52.0,
+  "icv_cert_no": "ICV-0184-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-07": {
+  "bid_ref": "BID-2026-0412-07",
+  "company": "Gulfstream Engineering and Contracting WLL",
+  "file_vnum": 2,
+  "source_file": "Bid_V02_Gulfstream_Engineering_and_Contracting_WLL.txt",
+  "scheme": "",
+  "capacity_m3_per_day": 31800,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 7.0,
+  "outlet_oiw_cover_letter": 7.0,
+  "price_currency": "AED",
+  "price_total": 41200000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 14270000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 5625000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 3743000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 3747000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3230000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2284000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 4402000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1588000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1098000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1213000
+   }
+  ],
+  "line_item_sum": 41200000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 62,
+  "warranty_months": 24,
+  "gcc_references_count": 5,
+  "experience_years": 12,
+  "employees": 380,
+  "year_established": 2014,
+  "trir_3yr_avg": 0.34,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 44.0,
+  "icv_cert_no": "ICV-0284-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-03": {
+  "bid_ref": "BID-2026-0412-03",
+  "company": "Rheinwasser Technik GmbH",
+  "file_vnum": 3,
+  "source_file": "Bid_V03_Rheinwasser_Technik_GmbH.txt",
+  "scheme": "deoiling hydrocyclone battery + compact flotation units (cfu) + ceramic\n membrane polishing",
+  "capacity_m3_per_day": 34200,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 4.0,
+  "outlet_oiw_cover_letter": 4.0,
+  "price_currency": "USD",
+  "price_total": 12380000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 4537500
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 1446000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 1029000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 976000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 1016500
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 813500
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 1263500
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 517500
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 360500
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 420000
+   }
+  ],
+  "line_item_sum": 12380000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 54,
+  "warranty_months": 36,
+  "gcc_references_count": 3,
+  "experience_years": 32,
+  "employees": 1150,
+  "year_established": 1994,
+  "trir_3yr_avg": 0.12,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 18.0,
+  "icv_cert_no": "ICV-0384-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-06": {
+  "bid_ref": "BID-2026-0412-06",
+  "company": "Hanseong Water and Energy Co Ltd",
+  "file_vnum": 4,
+  "source_file": "Bid_V04_Hanseong_Water_and_Energy_Co_Ltd.txt",
+  "scheme": "",
+  "capacity_m3_per_day": 32000,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 6.0,
+  "outlet_oiw_cover_letter": 6.0,
+  "price_currency": "AED",
+  "price_total": 39900000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 15024000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 4692000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 3923000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 3033000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 2978000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2624000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 3403000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1743000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1128000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1352000
+   }
+  ],
+  "line_item_sum": 39900000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 50,
+  "warranty_months": 24,
+  "gcc_references_count": 6,
+  "experience_years": 14,
+  "employees": 920,
+  "year_established": 2005,
+  "trir_3yr_avg": 0.22,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 12.0,
+  "icv_cert_no": "ICV-0484-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-12": {
+  "bid_ref": "BID-2026-0412-12",
+  "company": "Al Dhafra Industrial Services Co",
+  "file_vnum": 5,
+  "source_file": "Bid_V05_Al_Dhafra_Industrial_Services_Co.txt",
+  "scheme": "",
+  "capacity_m3_per_day": 30500,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 9.0,
+  "outlet_oiw_cover_letter": 9.0,
+  "price_currency": "AED",
+  "price_total": 38401000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 14008000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 4861000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 3870000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 2976000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3018000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2614000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 3403000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1499000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1116000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1036000
+   }
+  ],
+  "line_item_sum": 38401000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 66,
+  "warranty_months": 24,
+  "gcc_references_count": 4,
+  "experience_years": 9,
+  "employees": 270,
+  "year_established": 2017,
+  "trir_3yr_avg": 0.55,
+  "fatalities_3yr": 0,
+  "icv_score_pct": null,
+  "icv_cert_no": null,
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-05": {
+  "bid_ref": "BID-2026-0412-05",
+  "company": "Qasr Al Bahr Marine and Process LLC",
+  "file_vnum": 6,
+  "source_file": "Bid_V06_Qasr_Al_Bahr_Marine_and_Process_LLC.txt",
+  "scheme": "skim vessel + single-stage induced gas flotation",
+  "capacity_m3_per_day": 22500,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 12.0,
+  "outlet_oiw_cover_letter": 12.0,
+  "price_currency": "AED",
+  "price_total": 40098000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 14676000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 5028000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 3458000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 3250000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3338000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2221000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 3651000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1840000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1257000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1379000
+   }
+  ],
+  "line_item_sum": 40098000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 60,
+  "warranty_months": 24,
+  "gcc_references_count": 2,
+  "experience_years": 7,
+  "employees": 310,
+  "year_established": 2012,
+  "trir_3yr_avg": 0.48,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 35.0,
+  "icv_cert_no": "ICV-0684-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {},
+  "has_technical_alternate": false
+ },
+ "BID-2026-0412-09": {
+  "bid_ref": "BID-2026-0412-09",
+  "company": "Petrotech Arabia Ltd",
+  "file_vnum": 7,
+  "source_file": "Bid_V07_Petrotech_Arabia_Ltd.txt",
+  "scheme": "",
+  "capacity_m3_per_day": 31000,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 9.0,
+  "outlet_oiw_cover_letter": 9.0,
+  "price_currency": "AED",
+  "price_total": 47603000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 19940000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 5126000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 4506000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 3287000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3690000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2840000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 4946000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1926000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1211000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1378000
+   }
+  ],
+  "line_item_sum": 48850000,
+  "arithmetic_issue": {
+   "line_item_sum": 48850000,
+   "stated_total": 47603000,
+   "difference": 1247000,
+   "governing_per_itb": 48850000
+  },
+  "mc_weeks_from_loa": 64,
+  "warranty_months": 24,
+  "gcc_references_count": 5,
+  "experience_years": 16,
+  "employees": 780,
+  "year_established": 2003,
+  "trir_3yr_avg": 0.45,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 38.0,
+  "icv_cert_no": "ICV-0784-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-10": {
+  "bid_ref": "BID-2026-0412-10",
+  "company": "Emirates Flowline Systems FZE",
+  "file_vnum": 8,
+  "source_file": "Bid_V08_Emirates_Flowline_Systems_FZE.txt",
+  "scheme": "deoiling hydrocyclones + compact flotation unit + nutshell\n polishing filters",
+  "capacity_m3_per_day": 33000,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 5.0,
+  "outlet_oiw_cover_letter": null,
+  "price_currency": "AED",
+  "price_total": 52299000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 21411000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 5687000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 4707000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 4089000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3735000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 3323000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 4418000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 2103000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1441000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1385000
+   }
+  ],
+  "line_item_sum": 52299000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 70,
+  "warranty_months": 24,
+  "gcc_references_count": 2,
+  "experience_years": null,
+  "employees": 190,
+  "year_established": 2018,
+  "trir_3yr_avg": 0.72,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 47.0,
+  "icv_cert_no": "ICV-0884-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {},
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-11": {
+  "bid_ref": "BID-2026-0412-11",
+  "company": "Nakheel Oilfield Supplies and Services LLC",
+  "file_vnum": 9,
+  "source_file": "Bid_V09_Nakheel_Oilfield_Supplies_and_Services_LLC.txt",
+  "scheme": "",
+  "capacity_m3_per_day": 30800,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 8.0,
+  "outlet_oiw_cover_letter": 8.0,
+  "price_currency": "AED",
+  "price_total": 43700000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 16534000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 4666000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 4078000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 3235000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3313000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2313000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 5034000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1934000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1371000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1222000
+   }
+  ],
+  "line_item_sum": 43700000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 68,
+  "warranty_months": 24,
+  "gcc_references_count": 3,
+  "experience_years": 11,
+  "employees": 350,
+  "year_established": 2013,
+  "trir_3yr_avg": 0.88,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 41.0,
+  "icv_cert_no": "ICV-0984-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {},
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-01": {
+  "bid_ref": "BID-2026-0412-01",
+  "company": "Bin Sultan Heavy Industries LLC",
+  "file_vnum": 10,
+  "source_file": "Bid_V10_Bin_Sultan_Heavy_Industries_LLC.txt",
+  "scheme": "hydrocyclone battery + dual compact flotation trains + nutshell filtration + chemical injection\n  package",
+  "capacity_m3_per_day": 34500,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 4.0,
+  "outlet_oiw_cover_letter": 4.0,
+  "price_currency": "AED",
+  "price_total": 55900000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 19174000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 6868000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 5135000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 5229000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 4124000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 3491000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 6169000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 2110000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1613000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1987000
+   }
+  ],
+  "line_item_sum": 55900000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 60,
+  "warranty_months": 36,
+  "gcc_references_count": 9,
+  "experience_years": 22,
+  "employees": 1450,
+  "year_established": 1998,
+  "trir_3yr_avg": 0.28,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 55.0,
+  "icv_cert_no": "ICV-1084-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {},
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-02": {
+  "bid_ref": "BID-2026-0412-02",
+  "company": "Aquapure Gulf Technologies FZ-LLC",
+  "file_vnum": 11,
+  "source_file": "Bid_V11_Aquapure_Gulf_Technologies_FZ-LLC.txt",
+  "scheme": "deoiling hydrocyclones + compact flotation + ceramic ultrafiltration\n polishing",
+  "capacity_m3_per_day": 36000,
+  "capacity_bbl_per_day": null,
+  "outlet_oiw_mg_per_l": 3.0,
+  "outlet_oiw_cover_letter": null,
+  "price_currency": "AED",
+  "price_total": 61000000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 21065000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 8384000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 5366000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 5125000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 4347000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 3938000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 7014000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 2164000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 2030000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1567000
+   }
+  ],
+  "line_item_sum": 61000000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 56,
+  "warranty_months": 36,
+  "gcc_references_count": 6,
+  "experience_years": null,
+  "employees": 420,
+  "year_established": 2013,
+  "trir_3yr_avg": 0.15,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 33.0,
+  "icv_cert_no": "ICV-1184-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ },
+ "BID-2026-0412-08": {
+  "bid_ref": "BID-2026-0412-08",
+  "company": "Levant Energy Solutions SAL",
+  "file_vnum": 12,
+  "source_file": "Bid_V12_Levant_Energy_Solutions_SAL.txt",
+  "scheme": "",
+  "capacity_m3_per_day": 30900,
+  "capacity_bbl_per_day": 194354,
+  "outlet_oiw_mg_per_l": 10.0,
+  "outlet_oiw_cover_letter": 10.0,
+  "price_currency": "AED",
+  "price_total": 46198000,
+  "line_items": [
+   {
+    "item": 1,
+    "description": "Produced water treatment process equipment package",
+    "amount": 18132000
+   },
+   {
+    "item": 2,
+    "description": "Pressure vessels, tanks & internals",
+    "amount": 5248000
+   },
+   {
+    "item": 3,
+    "description": "Pumps & rotating equipment",
+    "amount": 4083000
+   },
+   {
+    "item": 4,
+    "description": "Piping, valves & fittings",
+    "amount": 4185000
+   },
+   {
+    "item": 5,
+    "description": "Instrumentation, control system & metering",
+    "amount": 3221000
+   },
+   {
+    "item": 6,
+    "description": "Electrical equipment & motor control centre",
+    "amount": 2445000
+   },
+   {
+    "item": 7,
+    "description": "Site installation & civil works",
+    "amount": 4444000
+   },
+   {
+    "item": 8,
+    "description": "Commissioning, start-up & performance test",
+    "amount": 1712000
+   },
+   {
+    "item": 9,
+    "description": "Two-year operational spare parts",
+    "amount": 1230000
+   },
+   {
+    "item": 10,
+    "description": "Freight, insurance & final documentation",
+    "amount": 1498000
+   }
+  ],
+  "line_item_sum": 46198000,
+  "arithmetic_issue": null,
+  "mc_weeks_from_loa": 72,
+  "warranty_months": 24,
+  "gcc_references_count": 4,
+  "experience_years": 10,
+  "employees": 240,
+  "year_established": 2016,
+  "trir_3yr_avg": 0.65,
+  "fatalities_3yr": 0,
+  "icv_score_pct": 29.0,
+  "icv_cert_no": "ICV-1284-2025,",
+  "has_iso_14001": true,
+  "has_iso_45001": true,
+  "submission_checklist": {
+   "D1": "Enclosed",
+   "D2": "Enclosed",
+   "D3": "Enclosed",
+   "D4": "Enclosed",
+   "D5": "Enclosed",
+   "D6": "Enclosed",
+   "D7": "Enclosed",
+   "D8": "Enclosed",
+   "D9": "Enclosed"
+  },
+  "has_technical_alternate": true
+ }
+}

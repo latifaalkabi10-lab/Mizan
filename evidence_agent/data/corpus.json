@@ -1,0 +1,583 @@
+[
+ {
+  "doc_id": "rfp",
+  "page": 1,
+  "section": "Cover / Header",
+  "text": "ADNOC TENDER \u2014 RESTRICTED A B U D H A B I N AT I O N A L O I L C O M PA N Y REQUEST FOR PROPOSAL ADNOC-LCIG/RFP/2026-0412 \u2014 Rev 0 \u2014 Issued 14 May 2026 Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) \u2014 Abu Dhabi, United Arab Emirates TENDER REF: ADNOC-LCIG/RFP/2026-0412 ADNOC Onshore \u2014 Local Content & Issuing entity Industrial Growth / Commercial Directorate RFP issue date 14 May 2026 Deadline for clarifications 11 June 2026, 16:00 (UAE time) Bid submission deadline 16 July 2026, 14:00 (UAE time)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 1,
+  "section": "120 calendar days from submission",
+  "text": "120 calendar days from submission Bid validity deadline Bid bond 2% of total bid value, valid 150 days Lump-sum turnkey (EPC) \u2014 Supply, Contract type Installation & Commissioning DDP Bu Hasnah CPF-2 site (Incoterms Incoterms (supply portion) 2020) CONFIDENTIALITY. This RFP and all attachments are the property of ADNOC and are issued solely to prequalified bidders for the purpose of preparing a proposal. Contents shall not be disclosed to third parties without prior written consent of the ADNOC Commercial Directorate. Synthetic dataset - hackathon use only Page 1 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 2,
+  "section": "Cover / Header",
+  "text": "1. Introduction & Background Abu Dhabi National Oil Company (ADNOC) invites sealed proposals for the supply, installation and commissioning of a Produced Water Treatment (PWT) Package at the Bu Hasnah Field Central Processing Facility CPF-2. Produced water arisings at Bu Hasnah are forecast to increase from approximately 21,000 m3/d (2026) to in excess of 29,000 m3/d by 2029 as the field matures under the current water-flood scheme. The existing skim-tank train is hydraulically limited and cannot achieve the disposal-water quality required for re-injection into the Wasia disposal horizon. The new PWT Package shall treat the full forecast produced-water stream to re-injection quality and shall be integrated with the existing CPF-2 utility and control systems. The successful bidder (the \"Contractor\") shall perform design verification, supply, delivery to site, installation, pre-commissioning, commissioning and performance testing on a lump-sum turnkey basis. Scope summary. One (1) complete PWT package rated 30,000 m3/d net continuous throughput, achieving outlet oil-in-water (OiW) \u2264 10 mg/L (monthly average) and suspended solids \u2264 15 mg/ L, including all inter-unit piping, instrumentation, motor control centre, chemical injection, 2-year operational spares, and integration with the existing DCS (Yokogawa Centum VP). 2. Schedule of Tender Milestone Date / Requirement RFP issue 14 May 2026 Site visit (optional, by appointment) 26 \u2013 28 May 2026 Deadline for bidder clarifications 11 June 2026, 16:00 (UAE time) Final clarification bulletin issued 25 June 2026 Bid submission deadline (electronic, via ADNOC e-",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 2,
+  "section": "16 July 2026, 14:00 (UAE time)",
+  "text": "16 July 2026, 14:00 (UAE time) Tendering portal) Techno-commercial evaluation July \u2013 August 2026 Anticipated Letter of Award (LOA) Q4 2026 Not later than 76 weeks after LOA (target 64 Mechanical completion (contractual) weeks) 3. Instructions to Bidders (ITB) 1. Submission. Bids shall be submitted electronically via the ADNOC e-Tendering portal no later than the deadline in Section 2. Late bids will not be opened. Bids shall comprise a single technical volume and a single commercial volume in PDF format. 2. Language & currency. Bids shall be in English. All prices shall be quoted in UAE Dirhams (AED), fixed and firm, inclusive of all duties and fees but exclusive of UAE VAT. Prices quoted in any other currency constitute a commercial deviation; where ADNOC elects to evaluate such a bid, conversion will be made at the UAE Central Bank reference rate of AED 3.6725 / USD. 3. Validity. Bids shall remain valid for 120 calendar days from the submission deadline. 4. Bid bond. An unconditional bank guarantee for 2% of the total bid value, issued or counter- guaranteed by a UAE-licensed bank, valid 150 days, shall accompany the bid. Synthetic dataset - hackathon use only Page 2 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 3,
+  "section": "Cover / Header",
+  "text": "5. Completeness. Bids omitting any mandatory submission requirement listed in Section 4 shall be deemed conditionally non-compliant and shall be excluded from award consideration; they may be scored for benchmarking purposes only. 6. Arithmetic. In the event of any discrepancy between unit rates, line-item amounts and totals, the corrected sum of line items shall govern and shall be used as the evaluated price. 7. Clarifications. Questions shall be submitted in writing via the portal before the clarification deadline. Responses will be issued to all bidders by numbered bulletin. 8. No contact. Bidders shall not contact ADNOC asset teams directly during the tender period. Canvassing in any form shall result in disqualification. 9. Partial bids / alternates. Partial bids are not accepted. One (1) technical alternate may be offered in addition to a fully compliant base bid. 10. Costs. Bidders bear all costs of bid preparation. ADNOC is not bound to accept the lowest or any bid. Synthetic dataset - hackathon use only Page 3 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 4,
+  "section": "Cover / Header",
+  "text": "4. Mandatory Submission Requirements Each bid shall contain all of the following documents. The checklist below will be applied verbatim at bid opening. Any item marked \"Not submitted\" renders the bid conditionally non-compliant per ITB clause 5. Code Mandatory document Format D1 Company profile incl. valid UAE/home-country trade licence PDF, max 20 pages D2 Technical proposal with equipment list and datasheets PDF D3 Itemized commercial proposal, priced in AED PDF, itemized table D4 Delivery schedule (Level 2) to mechanical completion PDF or native plan PDF, tabulated by D5 HSE statistics: 3-year TRIR, LTI and fatality record year PDF copy of D6 Valid ICV certificate (MoIAT-certified body) certificate PDF, audited & D7 Audited financial statements (last 2 financial years) signed D8 Bid bond / bank guarantee, 2% of bid value, 150-day validity Original + PDF copy D9 Warranty statement (minimum 24 months from acceptance) PDF, signed Note on ICV. The In-Country Value certificate (D6) must be issued by a MoIAT-certified body and be valid on the bid submission date. The certified ICV score is used directly in the evaluation formula in Section 6.4 \u2014 bids without a valid certificate score zero for ICV and fail mandatory screening. 5. Scope of Work & Key Technical Requirements",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 4,
+  "section": "5.1 Design basis",
+  "text": "5.1 Design basis Parameter Requirement Net treatment capacity \u2265 30,000 m3/d (\u2248 188,700 bbl/d) at 100% availability, single train or parallel (continuous) trains Inlet oil-in-water (design) up to 650 mg/L (spikes to 1,500 mg/L, 2-hr excursions) Outlet oil-in-water (guarantee \u2264 10 mg/L monthly average, \u2264 15 mg/L daily point) Outlet total suspended solids \u2264 15 mg/L; particle size \u2264 5 \u03bcm (98th percentile) Operating temperature /",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 4,
+  "section": "55 \u2013 78 \u00b0C / 3.5 barg design at battery limit",
+  "text": "55 \u2013 78 \u00b0C / 3.5 barg design at battery limit pressure H2S in produced water up to 45 ppmw \u2014 materials & venting to be sour-service rated (NACE MR0175) Turndown 30% of design flow without performance degradation Availability \u2265 97% with n+1 philosophy on rotating equipment Tie-ins per Exhibit C; DCS integration to Yokogawa Centum VP; F&G to existing Utility & control integration addressable system Warranty Minimum 24 months from provisional acceptance Synthetic dataset - hackathon use only Page 4 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 5,
+  "section": "5.2 Battery limits & exclusions",
+  "text": "5.2 Battery limits & exclusions Feed from existing degassing boiler drum outlet header (36\" CS); treated water to disposal-water booster pump suction header. Power at 11 kV from existing substation SS-04 (Contractor supplies transformers and MCC). Civil piling, permanent camp and disposal wells are excluded. Full details in Exhibits B\u2013E of the tender package. Synthetic dataset - hackathon use only Page 5 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "Cover / Header",
+  "text": "6. Evaluation Criteria & Scoring Methodology Bids passing mandatory screening (Section 4) and meeting the minimum technical requirements (Section 5.1) are scored out of 100 points: Technical 40, Commercial 30, HSE 15, ICV 15. Sub-criteria scored on 0\u20135 bands convert to points as: points = (band / 5) \u00d7 weight. All bands are defined numerically below and are applied without discretion. The highest total score is recommended for award.",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "6.1 Technical \u2014 40 points",
+  "text": "6.1 Technical \u2014 40 points T1 \u2014 Process capacity & performance guarantee (weight 15)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "5    Offered net capacity \u2265 33,000 m\u00b3/d and guaranteed outlet OiW \u2264 5 mg/L",
+  "text": "5 Offered net capacity \u2265 33,000 m3/d and guaranteed outlet OiW \u2264 5 mg/L",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "4    Capacity \u2265 31,500 m\u00b3/d and OiW \u2264 8 mg/L",
+  "text": "4 Capacity \u2265 31,500 m3/d and OiW \u2264 8 mg/L",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "3    Capacity \u2265 30,000 m\u00b3/d and OiW \u2264 10 mg/L (meets specification)",
+  "text": "3 Capacity \u2265 30,000 m3/d and OiW \u2264 10 mg/L (meets specification)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "0    Capacity < 30,000 m\u00b3/d or OiW > 10 mg/L \u2014 technically non-compliant, bid rejected",
+  "text": "0 Capacity < 30,000 m3/d or OiW > 10 mg/L \u2014 technically non-compliant, bid rejected T2 \u2014 Technology track record (GCC references) (weight 10)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "5    \u2265 8 installed references of the offered technology at \u2265 20,000 m\u00b3/d in GCC, last 10 years",
+  "text": "5 \u2265 8 installed references of the offered technology at \u2265 20,000 m3/d in GCC, last 10 years",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "4    5 \u2013 7 such references",
+  "text": "4 5 \u2013 7 such references",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "3    3 \u2013 4 such references",
+  "text": "3 3 \u2013 4 such references",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "2    1 \u2013 2 such references",
+  "text": "2 1 \u2013 2 such references",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "1    No comparable GCC reference",
+  "text": "1 No comparable GCC reference T3 \u2014 Company experience & organisation (weight 8)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "5    \u2265 15 years produced-water treatment experience",
+  "text": "5 \u2265 15 years produced-water treatment experience",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "4    10 \u2013 14 years",
+  "text": "4 10 \u2013 14 years",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "3    6 \u2013 9 years",
+  "text": "3 6 \u2013 9 years",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "2    3 \u2013 5 years",
+  "text": "2 3 \u2013 5 years",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "1    < 3 years",
+  "text": "1 < 3 years T4 \u2014 Delivery schedule (weight 7) \u2014 weeks from LOA to mechanical completion",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "5    \u2264 52 weeks",
+  "text": "5 \u2264 52 weeks",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "4    53 \u2013 60 weeks",
+  "text": "4 53 \u2013 60 weeks",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "3    61 \u2013 68 weeks",
+  "text": "3 61 \u2013 68 weeks",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "2    69 \u2013 76 weeks (contractual maximum)",
+  "text": "2 69 \u2013 76 weeks (contractual maximum)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "1    > 76 weeks \u2014 subject to rejection as non-compliant with Section 2",
+  "text": "1 > 76 weeks \u2014 subject to rejection as non-compliant with Section 2",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "6.2 Commercial \u2014 30 points",
+  "text": "6.2 Commercial \u2014 30 points The evaluated price is the arithmetic-corrected sum of line items (ITB clause 6), converted to AED at AED 3.6725/USD where applicable. Let Plow be the lowest evaluated price among bids that pass mandatory screening and minimum technical requirements. Each such bid receives: Commercial score C = 30 \u00d7 ( Plow \u00f7 Pbid ), rounded to 2 decimal places",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 6,
+  "section": "6.3 HSE \u2014 15 points",
+  "text": "6.3 HSE \u2014 15 points H1 \u2014 Safety performance (3-yr TRIR) (weight 9) \u2014 3-year average TRIR per 200,000 manhours Synthetic dataset - hackathon use only Page 6 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "5     TRIR \u2264 0.20",
+  "text": "5 TRIR \u2264 0.20",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "4     0.21 \u2013 0.40",
+  "text": "4 0.21 \u2013 0.40",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "3     0.41 \u2013 0.60",
+  "text": "3 0.41 \u2013 0.60",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "2     0.61 \u2013 1.00",
+  "text": "2 0.61 \u2013 1.00",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "1     > 1.00",
+  "text": "1 > 1.00",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "0     Any work-related fatality in the 3-year period",
+  "text": "0 Any work-related fatality in the 3-year period H2 \u2014 HSE management certification (weight 6) \u2014 certificates must be valid on the bid due date",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "5     Both ISO 45001 and ISO 14001 valid",
+  "text": "5 Both ISO 45001 and ISO 14001 valid",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "3     Exactly one of the two valid (an expired certificate counts as not valid)",
+  "text": "3 Exactly one of the two valid (an expired certificate counts as not valid)",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "1     Neither valid",
+  "text": "1 Neither valid",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "6.4 In-Country Value \u2014 15 points",
+  "text": "6.4 In-Country Value \u2014 15 points ICV score = 15 \u00d7 min( certified ICV %, 60 ) \u00f7 60, rounded to 2 decimal places Example: a certified ICV score of 45% earns 15 \u00d7 45/60 = 11.25 points. Bids without a valid ICV certificate score 0 and additionally fail mandatory screening (Section 4, item D6).",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 7,
+  "section": "6.5 Worked example",
+  "text": "6.5 Worked example A bid offering 32,000 m3/d at OiW 6 mg/L (T1 band 4 \u2192 12.00 pts), 6 GCC references (T2 band 4 \u2192 8.00), 12 years' experience (T3 band 4 \u2192 6.40), 58-week schedule (T4 band 4 \u2192 5.60), evaluated price AED 44.0M against Plow AED 40.0M (C = 30 \u00d7 40/44 = 27.27), TRIR 0.35 (H1 band 4 \u2192 7.20), both HSE certificates valid (H2 band 5 \u2192 6.00) and ICV 48% (12.00) totals 82.47 / 100. Synthetic dataset - hackathon use only Page 7 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 8,
+  "section": "Cover / Header",
+  "text": "7. Commercial & Contractual Conditions \u2022 Pricing basis. Lump-sum, fixed and firm for the contract duration. No escalation or currency adjustment. \u2022 Payment milestones. 10% on LOA (against advance-payment guarantee), 60% against supply milestones, 20% at mechanical completion, 10% at provisional acceptance after performance test. \u2022 Performance bond. 10% of contract value within 14 days of LOA, valid to end of warranty. \u2022 Liquidated damages. 0.5% of contract value per week of delay beyond contractual mechanical completion, capped at 10%. Performance LDs per Exhibit D for OiW guarantee shortfall. \u2022 Performance test. 72-hour continuous run at \u2265 95% of design flow; OiW guarantee verified by IP",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 8,
+  "section": "426 / OSPAR GC-FID reference method at the CPF-2 laboratory.",
+  "text": "426 / OSPAR GC-FID reference method at the CPF-2 laboratory. \u2022 HSE. Contractor shall comply with ADNOC HSE Management System requirements and site permit- to-work. \u2022 Governing law. Laws of the Emirate of Abu Dhabi and the federal laws of the UAE. 8. Tender Package Contents Document Description This RFP (Volume 0) Instructions, mandatory requirements, evaluation methodology Exhibit A Form of Agreement & General Conditions of Contract Exhibit B Scope of Work & Job Specification (PWT-JS-001 Rev 2) Exhibit C Tie-in schedule, plot plan & utility data Exhibit D Performance guarantees & liquidated damages schedule Exhibit E HSE requirements & site regulations Form T-1 ... T-6 Bid forms (bid letter, price schedule, bid bond format, ICV declaration) Submission checklist reminder. Before uploading, verify documents D1 \u2013 D9 (Section 4) are complete, the commercial volume is priced in AED, the bid bond is enclosed, and the delivery schedule shows mechanical completion within 76 weeks of LOA. Issued by Endorsed by Approved by Layla H. Al Marzouqi Eng. Suhail K. Al Neyadi Fatima S. Al Shamsi Category Manager \u2014 Water Treatment VP Projects \u2014 Bu Hasnah Asset SVP Commercial & Utilities ADNOC Onshore ADNOC Group Procurement ADNOC Commercial Directorate Synthetic dataset - hackathon use only Page 8 of 8",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ },
+ {
+  "doc_id": "tracker",
+  "page": 1,
+  "section": "README",
+  "text": "Bid Submission Tracker \u2014 ADNOC-LCIG/RFP/2026-0412\nAbout this file\nRegister of all bids received for tender ADNOC-LCIG/RFP/2026-0412 (Supply, Installation & Commissioning of Produced Water Treatment Package).\nSheet 'Bid Register' columns:\n  Bid Ref                \u2014 sequential receipt number assigned at bid opening\n  Company / Country / City \u2014 bidder identity as registered on the e-Tendering portal\n  Contact Person / Email / Phone \u2014 bidder authorised contact\n  Submission Date/Time   \u2014 portal timestamp (UAE time); bid due was 16 July 2026, 14:00 (UAE time)\n  Currency               \u2014 currency of the commercial volume as received\n  Volumes Received       \u2014 submission completeness at opening (visual check only)\n  Receipt Remarks        \u2014 Tender Board Secretariat notes at opening; NOT an evaluation\nThe register records receipt only. Compliance screening and scoring are performed\nagainst RFP Section 4 (mandatory documents) and Section 6 (evaluation criteria).\nSynthetic dataset - for hackathon use only.",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-01",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-01\",\n \"company\": \"Bin Sultan Heavy Industries LLC\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Abu Dhabi\",\n \"contact_name\": \"Eng. Rashid A. Bin Sultan\",\n \"contact_email\": \"commercial@binsultanhi.ae\",\n \"phone\": \"+971 2 673 9902\",\n \"submission_datetime\": \"12 Jul 2026, 14:55\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-02",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-02\",\n \"company\": \"Aquapure Gulf Technologies FZ-LLC\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Ras Al Khaimah\",\n \"contact_name\": \"Dr. Lena T. Haddad\",\n \"contact_email\": \"rfq@aquapuregulf.ae\",\n \"phone\": \"+971 7 244 6690\",\n \"submission_datetime\": \"13 Jul 2026, 10:37\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-03",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-03\",\n \"company\": \"Rheinwasser Technik GmbH\",\n \"country\": \"Germany\",\n \"city\": \"Cologne\",\n \"contact_name\": \"Dr.-Ing. Petra Vogelsang\",\n \"contact_email\": \"tenders@rheinwasser-technik.de\",\n \"phone\": \"+49 221 940 7712\",\n \"submission_datetime\": \"13 Jul 2026, 16:20\",\n \"currency\": \"USD\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Commercial volume priced in USD \\u2014 noted at opening\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-04",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-04\",\n \"company\": \"Al Manara Process Solutions LLC\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Abu Dhabi\",\n \"contact_name\": \"Eng. Khalid M. Al Suwaidi\",\n \"contact_email\": \"tenders@almanara-ps.ae\",\n \"phone\": \"+971 2 641 8850\",\n \"submission_datetime\": \"14 Jul 2026, 09:42\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-05",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-05\",\n \"company\": \"Qasr Al Bahr Marine & Process LLC\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Dubai\",\n \"contact_name\": \"Omar H. Bin Lahej\",\n \"contact_email\": \"tendering@qasralbahr.ae\",\n \"phone\": \"+971 4 887 2205\",\n \"submission_datetime\": \"14 Jul 2026, 15:12\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-06",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-06\",\n \"company\": \"Hanseong Water & Energy Co., Ltd.\",\n \"country\": \"Republic of Korea\",\n \"city\": \"Ulsan\",\n \"contact_name\": \"J.H. Park\",\n \"contact_email\": \"overseas.bid@hanseongwe.kr\",\n \"phone\": \"+82 52 279 4400\",\n \"submission_datetime\": \"15 Jul 2026, 08:31\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-07",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-07\",\n \"company\": \"Gulfstream Engineering & Contracting WLL\",\n \"country\": \"Bahrain\",\n \"city\": \"Manama\",\n \"contact_name\": \"Faisal A. Kanoo\",\n \"contact_email\": \"bids@gulfstream-ec.bh\",\n \"phone\": \"+973 1748 2210\",\n \"submission_datetime\": \"15 Jul 2026, 11:05\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-08",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-08\",\n \"company\": \"Levant Energy Solutions SAL (UAE Branch)\",\n \"country\": \"Lebanon / UAE\",\n \"city\": \"Dubai\",\n \"contact_name\": \"Georges N. Khoury\",\n \"contact_email\": \"gcc.tenders@levantenergy.com\",\n \"phone\": \"+971 4 331 7726\",\n \"submission_datetime\": \"15 Jul 2026, 14:26\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Two clarification bulletins acknowledged\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-09",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-09\",\n \"company\": \"Petrotech Arabia Ltd.\",\n \"country\": \"Saudi Arabia\",\n \"city\": \"Al Khobar\",\n \"contact_name\": \"Abdulrahman S. Al Ghamdi\",\n \"contact_email\": \"proposals@petrotecharabia.sa\",\n \"phone\": \"+966 13 887 5520\",\n \"submission_datetime\": \"15 Jul 2026, 17:44\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-10",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-10\",\n \"company\": \"Emirates Flowline Systems FZE\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Sharjah\",\n \"contact_name\": \"Mariam K. Al Hosani\",\n \"contact_email\": \"bids@efs-fze.ae\",\n \"phone\": \"+971 6 557 8834\",\n \"submission_datetime\": \"16 Jul 2026, 10:18\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Complete on visual check\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-11",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-11\",\n \"company\": \"Nakheel Oilfield Supplies & Services LLC\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Al Ain\",\n \"contact_name\": \"Hamdan S. Al Ameri\",\n \"contact_email\": \"tenders@nakheel-oss.ae\",\n \"phone\": \"+971 3 702 5518\",\n \"submission_datetime\": \"16 Jul 2026, 12:03\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"Bid bond not found in submission \\u2014 noted at opening\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "tracker-BID-2026-0412-12",
+  "page": 1,
+  "section": "Bid Register",
+  "text": "{\n \"bid_ref\": \"BID-2026-0412-12\",\n \"company\": \"Al Dhafra Industrial Services Co.\",\n \"country\": \"United Arab Emirates\",\n \"city\": \"Abu Dhabi\",\n \"contact_name\": \"Saeed R. Al Mazrouei\",\n \"contact_email\": \"proposals@aldhafra-ind.ae\",\n \"phone\": \"+971 2 550 3641\",\n \"submission_datetime\": \"16 Jul 2026, 13:51\",\n \"currency\": \"AED\",\n \"volumes_received\": \"Technical + Commercial (PDF)\",\n \"receipt_remarks\": \"ICV certificate not found in submission \\u2014 noted at opening\"\n}",
+  "source_file": "Bid_Submission_Tracker_2026-0412.xlsx"
+ },
+ {
+  "doc_id": "BID-2026-0412-04",
+  "page": 1,
+  "section": "PROPOSAL SUBMISSION\n\n\nS",
+  "text": "PROPOSAL SUBMISSION Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) Technical & Commercial Proposal \u2014 in response to ADNOC-LCIG/RFP/2026-0412 Prepared for ADNOC \u2014 Commercial Directorate, Abu Dhabi, UAE Bid reference ALMANARA-2026-0412-TCP Submission date 14 Jul 2026 Validity 120 days Eng. Khalid M. Al Suwaidi \u2014 tenders@almanara- Contact ps.ae Mussafah Industrial Area M-40, Abu Dhabi, UAE +971 2 641 8850",
+  "source_file": "Bid_V01_Al_Manara_Process_Solutions_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-07",
+  "page": 1,
+  "section": "E N G I N E E R I N G C E R TA I N T Y A C R O S S   B",
+  "text": "E N G I N E E R I N G C E R TA I N T Y A C R O S S Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) THE GULF In response to ADNOC-LCIG/RFP/2026-0412 Bldg 2470, Rd 2831, Seef District, Manama, Client ADNOC \u2014 Commercial Directorate Bahrain Submission date 15 Jul 2026 +973 1748 2210 Bid validity 120 days from bid due date bids@gulfstream-ec.bh Authorised signatory Faisal A. Kanoo, Executive Director This proposal is submitted in accordance with the Instructions to Bidders and remains the property of Gulfstream Engineering & Contracting WLL until award. Established 2014 \u2022 380 personnel",
+  "source_file": "Bid_V02_Gulfstream_Engineering_and_Contracting_WLL.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-06",
+  "page": 1,
+  "section": "TECHNICAL & COMMERCIAL PROPOSAL\n\n\n\nS",
+  "text": "TECHNICAL & COMMERCIAL PROPOSAL Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) Tender reference ADNOC-LCIG/RFP/2026-0412 Submission date 15 Jul 2026 Prepared by J.H. Park, Senior Vice President, Overseas Projects Contact overseas.bid@hanseongwe.kr WHY HANSEONG 14 years of produced-water treatment delivery \u2022 6 comparable GCC installations \u2022 920 specialists worldwide \u2022 Guaranteed outlet quality 6 mg/L OiW",
+  "source_file": "Bid_V04_Hanseong_Water_and_Energy_Co_Ltd.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-06",
+  "page": 1,
+  "section": "WHY HANSEONG",
+  "text": "WHY HANSEONG 14 years of produced-water treatment delivery \u2022 6 comparable GCC installations \u2022 920 specialists worldwide \u2022 Guaranteed outlet quality 6 mg/L OiW",
+  "source_file": "Bid_V04_Hanseong_Water_and_Energy_Co_Ltd.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-12",
+  "page": 1,
+  "section": "PROPOSAL SUBMISSION\n\n\nS",
+  "text": "PROPOSAL SUBMISSION Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) Technical & Commercial Proposal \u2014 in response to ADNOC-LCIG/RFP/2026-0412 Prepared for ADNOC \u2014 Commercial Directorate, Abu Dhabi, UAE Bid reference ALDHAFRA-2026-0412-TCP Submission date 16 Jul 2026 Validity 120 days Contact Saeed R. Al Mazrouei \u2014 proposals@aldhafra-ind.ae ICAD III, Plot 47-B, Abu Dhabi, UAE +971 2 550 3641",
+  "source_file": "Bid_V05_Al_Dhafra_Industrial_Services_Co.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-12",
+  "page": 1,
+  "section": "ICAD III",
+  "text": "ICAD III, Plot 47-B, Abu Dhabi, UAE +971 2 550 3641",
+  "source_file": "Bid_V05_Al_Dhafra_Industrial_Services_Co.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-10",
+  "page": 1,
+  "section": "TECHNICAL & COMMERCIAL PROPOSAL\n\n\n\nS",
+  "text": "TECHNICAL & COMMERCIAL PROPOSAL Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) Tender reference ADNOC-LCIG/RFP/2026-0412 Submission date 16 Jul 2026 Prepared by Mariam K. Al Hosani, Commercial Manager Contact bids@efs-fze.ae WHY EFS 8 years of produced-water treatment delivery \u2022 2 comparable GCC installations \u2022 190 specialists worldwide \u2022 Guaranteed outlet quality 5 mg/L OiW",
+  "source_file": "Bid_V08_Emirates_Flowline_Systems_FZE.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-10",
+  "page": 1,
+  "section": "WHY EFS",
+  "text": "WHY EFS 8 years of produced-water treatment delivery \u2022 2 comparable GCC installations \u2022 190 specialists worldwide \u2022 Guaranteed outlet quality 5 mg/L OiW",
+  "source_file": "Bid_V08_Emirates_Flowline_Systems_FZE.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-11",
+  "page": 1,
+  "section": "PROPOSAL SUBMISSION\n\n\nS",
+  "text": "PROPOSAL SUBMISSION Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) Technical & Commercial Proposal \u2014 in response to ADNOC-LCIG/RFP/2026-0412 Prepared for ADNOC \u2014 Commercial Directorate, Abu Dhabi, UAE Bid reference NAKHEEL-2026-0412-TCP Submission date 16 Jul 2026 Validity 120 days Contact Hamdan S. Al Ameri \u2014 tenders@nakheel-oss.ae Al Ain Industrial Area, Zakher, Al Ain, UAE +971 3 702 5518",
+  "source_file": "Bid_V09_Nakheel_Oilfield_Supplies_and_Services_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-01",
+  "page": 1,
+  "section": "KEZAD A",
+  "text": "KEZAD Area A, Taweelah, Abu Dhabi, UAE commercial@binsultanhi.ae",
+  "source_file": "Bid_V10_Bin_Sultan_Heavy_Industries_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-02",
+  "page": 1,
+  "section": "TECHNICAL & COMMERCIAL PROPOSAL\n\n\n\nS",
+  "text": "TECHNICAL & COMMERCIAL PROPOSAL Supply, Installation & Commissioning of Produced Water Treatment Package Bu Hasnah Field \u2014 Central Processing Facility (CPF-2) Tender reference ADNOC-LCIG/RFP/2026-0412 Submission date 13 Jul 2026 Prepared by Dr. Lena T. Haddad, Managing Director Contact rfq@aquapuregulf.ae WHY AQUAPURE 13 years of produced-water treatment delivery \u2022 6 comparable GCC installations \u2022 420 specialists worldwide \u2022 Guaranteed outlet quality 3 mg/L OiW",
+  "source_file": "Bid_V11_Aquapure_Gulf_Technologies_FZ-LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-02",
+  "page": 1,
+  "section": "WHY AQUAPURE",
+  "text": "WHY AQUAPURE 13 years of produced-water treatment delivery \u2022 6 comparable GCC installations \u2022 420 specialists worldwide \u2022 Guaranteed outlet quality 3 mg/L OiW",
+  "source_file": "Bid_V11_Aquapure_Gulf_Technologies_FZ-LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-04",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-04 | Company: Al Manara Process Solutions LLC\nScheme: two-stage corrugated-plate interceptor (cpi) + induced gas flotation\n (igf) + nutshell filtration\nCapacity: 33500 m\u00b3/d\nOutlet OiW: 5.0 mg/L (cover letter: None mg/L)\nPrice: AED 44,851,000\nLine items sum: 44,851,000 | Arithmetic issue: False\nMC from LOA: 58 weeks\nWarranty: 30 months\nGCC references: 7\nExperience: 18 years\nEmployees: 640\nYear est: 2008\nTRIR: 0.18\nFatalities: 0\nICV: 52.0% (cert: ICV-0184-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Al_Manara_Process_Solutions_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-07",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-07 | Company: Gulfstream Engineering and Contracting WLL\nScheme: \nCapacity: 31800 m\u00b3/d\nOutlet OiW: 7.0 mg/L (cover letter: 7.0 mg/L)\nPrice: AED 41,200,000\nLine items sum: 41,200,000 | Arithmetic issue: False\nMC from LOA: 62 weeks\nWarranty: 24 months\nGCC references: 5\nExperience: 12 years\nEmployees: 380\nYear est: 2014\nTRIR: 0.34\nFatalities: 0\nICV: 44.0% (cert: ICV-0284-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Gulfstream_Engineering_and_Contracting_WLL.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-03",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-03 | Company: Rheinwasser Technik GmbH\nScheme: deoiling hydrocyclone battery + compact flotation units (cfu) + ceramic\n membrane polishing\nCapacity: 34200 m\u00b3/d\nOutlet OiW: 4.0 mg/L (cover letter: 4.0 mg/L)\nPrice: USD 12,380,000\nLine items sum: 12,380,000 | Arithmetic issue: False\nMC from LOA: 54 weeks\nWarranty: 36 months\nGCC references: 3\nExperience: 32 years\nEmployees: 1150\nYear est: 1994\nTRIR: 0.12\nFatalities: 0\nICV: 18.0% (cert: ICV-0384-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Rheinwasser_Technik_GmbH.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-06",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-06 | Company: Hanseong Water and Energy Co Ltd\nScheme: \nCapacity: 32000 m\u00b3/d\nOutlet OiW: 6.0 mg/L (cover letter: 6.0 mg/L)\nPrice: AED 39,900,000\nLine items sum: 39,900,000 | Arithmetic issue: False\nMC from LOA: 50 weeks\nWarranty: 24 months\nGCC references: 6\nExperience: 14 years\nEmployees: 920\nYear est: 2005\nTRIR: 0.22\nFatalities: 0\nICV: 12.0% (cert: ICV-0484-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Hanseong_Water_and_Energy_Co_Ltd.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-12",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-12 | Company: Al Dhafra Industrial Services Co\nScheme: \nCapacity: 30500 m\u00b3/d\nOutlet OiW: 9.0 mg/L (cover letter: 9.0 mg/L)\nPrice: AED 38,401,000\nLine items sum: 38,401,000 | Arithmetic issue: False\nMC from LOA: 66 weeks\nWarranty: 24 months\nGCC references: 4\nExperience: 9 years\nEmployees: 270\nYear est: 2017\nTRIR: 0.55\nFatalities: 0\nICV: None% (cert: None)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Al_Dhafra_Industrial_Services_Co.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-05",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-05 | Company: Qasr Al Bahr Marine and Process LLC\nScheme: skim vessel + single-stage induced gas flotation\nCapacity: 22500 m\u00b3/d\nOutlet OiW: 12.0 mg/L (cover letter: 12.0 mg/L)\nPrice: AED 40,098,000\nLine items sum: 40,098,000 | Arithmetic issue: False\nMC from LOA: 60 weeks\nWarranty: 24 months\nGCC references: 2\nExperience: 7 years\nEmployees: 310\nYear est: 2012\nTRIR: 0.48\nFatalities: 0\nICV: 35.0% (cert: ICV-0684-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {}\nAlternate: False",
+  "source_file": "Bid_V12_Qasr_Al_Bahr_Marine_and_Process_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-09",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-09 | Company: Petrotech Arabia Ltd\nScheme: \nCapacity: 31000 m\u00b3/d\nOutlet OiW: 9.0 mg/L (cover letter: 9.0 mg/L)\nPrice: AED 47,603,000\nLine items sum: 48,850,000 | Arithmetic issue: True\nMC from LOA: 64 weeks\nWarranty: 24 months\nGCC references: 5\nExperience: 16 years\nEmployees: 780\nYear est: 2003\nTRIR: 0.45\nFatalities: 0\nICV: 38.0% (cert: ICV-0784-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Petrotech_Arabia_Ltd.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-10",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-10 | Company: Emirates Flowline Systems FZE\nScheme: deoiling hydrocyclones + compact flotation unit + nutshell\n polishing filters\nCapacity: 33000 m\u00b3/d\nOutlet OiW: 5.0 mg/L (cover letter: None mg/L)\nPrice: AED 52,299,000\nLine items sum: 52,299,000 | Arithmetic issue: False\nMC from LOA: 70 weeks\nWarranty: 24 months\nGCC references: 2\nExperience: None years\nEmployees: 190\nYear est: 2018\nTRIR: 0.72\nFatalities: 0\nICV: 47.0% (cert: ICV-0884-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {}\nAlternate: True",
+  "source_file": "Bid_V12_Emirates_Flowline_Systems_FZE.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-11",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-11 | Company: Nakheel Oilfield Supplies and Services LLC\nScheme: \nCapacity: 30800 m\u00b3/d\nOutlet OiW: 8.0 mg/L (cover letter: 8.0 mg/L)\nPrice: AED 43,700,000\nLine items sum: 43,700,000 | Arithmetic issue: False\nMC from LOA: 68 weeks\nWarranty: 24 months\nGCC references: 3\nExperience: 11 years\nEmployees: 350\nYear est: 2013\nTRIR: 0.88\nFatalities: 0\nICV: 41.0% (cert: ICV-0984-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {}\nAlternate: True",
+  "source_file": "Bid_V12_Nakheel_Oilfield_Supplies_and_Services_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-01",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-01 | Company: Bin Sultan Heavy Industries LLC\nScheme: hydrocyclone battery + dual compact flotation trains + nutshell filtration + chemical injection\n  package\nCapacity: 34500 m\u00b3/d\nOutlet OiW: 4.0 mg/L (cover letter: 4.0 mg/L)\nPrice: AED 55,900,000\nLine items sum: 55,900,000 | Arithmetic issue: False\nMC from LOA: 60 weeks\nWarranty: 36 months\nGCC references: 9\nExperience: 22 years\nEmployees: 1450\nYear est: 1998\nTRIR: 0.28\nFatalities: 0\nICV: 55.0% (cert: ICV-1084-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {}\nAlternate: True",
+  "source_file": "Bid_V12_Bin_Sultan_Heavy_Industries_LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-02",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-02 | Company: Aquapure Gulf Technologies FZ-LLC\nScheme: deoiling hydrocyclones + compact flotation + ceramic ultrafiltration\n polishing\nCapacity: 36000 m\u00b3/d\nOutlet OiW: 3.0 mg/L (cover letter: None mg/L)\nPrice: AED 61,000,000\nLine items sum: 61,000,000 | Arithmetic issue: False\nMC from LOA: 56 weeks\nWarranty: 36 months\nGCC references: 6\nExperience: None years\nEmployees: 420\nYear est: 2013\nTRIR: 0.15\nFatalities: 0\nICV: 33.0% (cert: ICV-1184-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Aquapure_Gulf_Technologies_FZ-LLC.txt"
+ },
+ {
+  "doc_id": "BID-2026-0412-08",
+  "page": 0,
+  "section": "Summary",
+  "text": "Bid: BID-2026-0412-08 | Company: Levant Energy Solutions SAL\nScheme: \nCapacity: 30900 m\u00b3/d (194354 bbl/d)\nOutlet OiW: 10.0 mg/L (cover letter: 10.0 mg/L)\nPrice: AED 46,198,000\nLine items sum: 46,198,000 | Arithmetic issue: False\nMC from LOA: 72 weeks\nWarranty: 24 months\nGCC references: 4\nExperience: 10 years\nEmployees: 240\nYear est: 2016\nTRIR: 0.65\nFatalities: 0\nICV: 29.0% (cert: ICV-1284-2025,)\nISO 14001: True | ISO 45001: True\nChecklist: {\"D1\": \"Enclosed\", \"D2\": \"Enclosed\", \"D3\": \"Enclosed\", \"D4\": \"Enclosed\", \"D5\": \"Enclosed\", \"D6\": \"Enclosed\", \"D7\": \"Enclosed\", \"D8\": \"Enclosed\", \"D9\": \"Enclosed\"}\nAlternate: True",
+  "source_file": "Bid_V12_Levant_Energy_Solutions_SAL.txt"
+ },
+ {
+  "doc_id": "rfp",
+  "page": 0,
+  "section": "Structured Facts",
+  "text": "{\n \"tender_ref\": \"ADNOC-LCIG/RFP/2026-0412\",\n \"title\": \"Supply, Installation & Commissioning of Produced Water Treatment Package\",\n \"location\": \"Bu Hasnah Field \\u2014 Central Processing Facility (CPF-2) \\u2014 Abu Dhabi, UAE\",\n \"issue_date\": \"14 May 2026\",\n \"mandatory_docs_detail\": {\n  \"D1\": \"Company profile incl. valid UAE/home-country trade licence \\u2014 PDF, max 20 pages\",\n  \"D2\": \"Technical proposal with equipment list and datasheets \\u2014 PDF\",\n  \"D3\": \"Itemized commercial proposal, priced in AED, with bill of quantities \\u2014 PDF/Excel\",\n  \"D4\": \"HSE management plan incl. risk register, emergency response, waste management \\u2014 PDF\",\n  \"D5\": \"Valid ISO 14001 and ISO 45001 certificates \\u2014 PDF\",\n  \"D6\": \"Valid ICV certificate issued by ADNOC-approved ICV certifier \\u2014 PDF\",\n  \"D7\": \"Company organisation chart and CVs of key personnel \\u2014 PDF\",\n  \"D8\": \"Bid bond of 2% of total bid value, valid 150 days from bid deadline \\u2014 original or bank-guaranteed copy\",\n  \"D9\": \"Signed letter of undertaking accepting RFP terms and conditions (Appendix A) \\u2014 PDF\"\n },\n \"bid_deadline\": \"16 July 2026, 14:00 (UAE time)\",\n \"bid_validity_days\": 120,\n \"bid_bond_pct\": 2,\n \"bid_bond_validity_days\": 150,\n \"contract_type\": \"Lump-sum turnkey (EPC) \\u2014 Supply, Installation & Commissioning\",\n \"incoterms\": \"DDP Bu Hasnah CPF-2 site (Incoterms 2020)\",\n \"currency_rule\": \"All prices in AED, fixed and firm. USD at AED 3.6725 if converted.\",\n \"min_capacity_m3_per_day\": 30000,\n \"max_inlet_oiw_mg_per_l\": 650,\n \"min_outlet_oiw_mg_per_l\": 10,\n \"max_outlet_tss_mg_per_l\": 15,\n \"max_temp_c\": 78,\n \"max_pressure_barg\": 3.5,\n \"sour_service\": \"NACE MR0175\",\n \"turndown_pct\": 30,\n \"availability_pct\": 97,\n \"min_warranty_months\": 24,\n \"mandatory_docs\": [\n  \"D1\",\n  \"D2\",\n  \"D3\",\n  \"D4\",\n  \"D5\",\n  \"D6\",\n  \"D7\",\n  \"D8\",\n  \"D9\"\n ],\n \"evaluation_technical_weight\": 40,\n \"evaluation_commercial_weight\": 30,\n \"evaluation_hse_weight\": 15,\n \"evaluation_icv_weight\": 15,\n \"t1_weight\": 15,\n \"t2_weight\": 10,\n \"t3_weight\": 8,\n \"t4_weight\": 7,\n \"h1_weight\": 9,\n \"h2_weight\": 6,\n \"commercial_formula\": \"C = 30 \\u00d7 (Plow / Pbid)\",\n \"icv_formula\": \"ICV = 15 \\u00d7 min(ICV_pct, 60) / 60\",\n \"payment_milestones\": \"10% on LOA, 60% supply milestones, 20% mechanical completion, 10% provisional acceptance\",\n \"performance_bond_pct\": 10,\n \"ld_rate\": \"0.5% per week delay, capped at 10%\",\n \"performance_test\": \"72-hour continuous run at \\u2265 95% design flow, OiW by IP 426 / OSPAR GC-FID\"\n}",
+  "source_file": "RFP_ADNOC-LCIG_2026-0412_Produced_Water_Treatment.pdf"
+ }
+]
